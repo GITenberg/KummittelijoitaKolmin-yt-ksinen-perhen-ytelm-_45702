@@ -1,0 +1,41 @@
+_repo: KummittelijoitaKolmin-yt-ksinen-perhen-ytelm-_45702
+_version: 0.1.0
+alternative_title: Gengangere. Finnish
+contributor:
+  translator:
+    agent_name: Erkko, Elias
+    alias: Erkko, Rudolf
+    birthdate: 1863
+    deathdate: 1888
+    gutenberg_agent_id: '45820'
+    url: http://www.gutenberg.org/2009/agents/45820
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ibsen, Henrik
+    birthdate: 1828
+    deathdate: 1906
+    gutenberg_agent_id: '861'
+    url: http://www.gutenberg.org/2009/agents/861
+    wikipedia: http://en.wikipedia.org/wiki/Henrik_Ibsen
+description: ''
+gutenberg_issued: '2014-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45702'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Social conditions -- 19th century -- Drama'
+- !lcsh 'Norwegian drama -- Translations into Finnish'
+- !lcsh 'Mothers and sons -- Drama'
+- !lcsh 'Domestic drama'
+- !lcsh 'Tragedies'
+- !lcc 'PT'
+- !lcsh 'Families -- Drama'
+title: 'Kummittelijoita: Kolminäytöksinen perhenäytelmä'
+url: http://www.gutenberg.org/ebooks/45702
